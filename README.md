@@ -223,7 +223,7 @@ Open [http://localhost:5173](http://localhost:5173)
 
 ---
 
-## 🔮 Future Features
+## Future Features
 
 - [ ] Export/Import zona (JSON, GeoJSON, KML)
 - [ ] Zone grouping (organizacija po kategorijama)
