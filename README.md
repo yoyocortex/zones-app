@@ -2,9 +2,7 @@
 
 Ovo je moj web app za crtanje i upravljanje geografskim zonama na interaktivnoj mapi.
 
-Projekat je live i funkcionalan - možeš crtati zone, mijenjati im boje, editirati ih, i sve se automatski sprema u browser. 
-
-![Zones App Preview](https://via.placeholder.com/800x400?text=Zones+App+Preview)
+Projekat je live i funkcionalan - možeš crtati zone, mijenjati im boje, editirati ih, i sve se automatski sprema u browser.
 
 ---
 
